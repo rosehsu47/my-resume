@@ -33,6 +33,7 @@ I enjoy learning different languages and watching TV series. I am available and 
 * Designed and developed Coupon System, Campaign System, Customer Satisfaction Surveys System
 
 **Classroom instructor**, **e-tutor Project, Ministry Of Education（教育部數位學伴）**
+
 2017 - 2018
 
 * Served as a classroom instructor for the teaching side at National University of Kaohsiung, in charge of 89 tutors, facing 7 elementary schools.
