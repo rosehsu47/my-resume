@@ -1,26 +1,44 @@
 # Rose Hsu
 
-I am a backend engineer, working on delivering an e-Commerce system for the last 2 years, using Rust and other relevant tech. I believe that regular code refactoring is necessary in a project. 
-I enjoy learning different languages and watching TV series. I am available and open for new opportunities.
+I have been working as a backend engineer for 5 years, currently contributing to a social trading platform called "SoFinX." My experience spans across e-Commerce systems, CRM, and trading systems, primarily developed using Rust and Golang. Throughout my career, I firmly believe that regular code refactoring is essential for any project, along with maintaining a healthy team culture.
+I enjoy learning various things such as foreign languages and new technologies. In my free time, I like watching TV series and anime. I am open to and looking forward to a new challenge and great opportunity in the near future!
 
 ## Skills
 
-**Engineering**: Rust, PHP, PostgreSQL, Typescript, Redis, RabbitMQ
+**Engineering**: Rust, Golang, PHP, PostgreSQL, Redis
 
 **Version Control**: Git
 
-**DevOps**: GCP, Kubenetes, Kustomize, CI/CD
+**DevOps**: GCP, Kubenetes, Kustomize, Github Actions (CI/CD), Azure
 
-**Tools**: Notion, Asana, Trello, Lens, Postman, Vault
+**Tools**: Notion, Jira, Asana, Trello, Lens, Postman, Vault
 
 **Languages**: Mandarin Chinese, English (Toeic 870), Japanese (JLPT N1)
 
 
 ## WORKING EXPERIENCE
 
-**Backend Engineer**, **WoWFood (新場景股份有限公司)**   
+**Backend Engineer**, **OTSO Fintech**   
+2022 - Present
 
-2020 - Present
+* Developing RESTful APIs
+* Designing Domain Model and use case
+* Designing database schema 
+* Implementing CI/CD pipelines using GitHub Actions
+* Designing and architecting system functionalities
+* Consolidating and integrating internal requirements
+* Integrating and maintaining external APIs (ex: Sumsub, Stirpe, 三竹）
+* Writing API documentation
+
+* Responsible for the Account Opening System for a well-known bank in Taiwan
+* Implement Github Action, saving at least 70% of the version preparation time and reducing human errors
+* Increased core function test coverage from 0% to 70%
+* Automated API documentation, saving 60% of documentation writing time
+* Implemented Google Tag Manager (GTM) and Google Analytics (GA4) to facilitate marketing analysis
+
+**Project/Backend Engineer**, **PPX (新場景股份有限公司), Pressplay Group**   
+
+2020 - 2022
 
 * Working closely with the lead engineer to architect and build e-Commerce website and dashboard 
 * Developing RESTful web services using Rust framework actix-web
