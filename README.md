@@ -36,6 +36,7 @@ I enjoy learning various things such as foreign languages and new technologies. 
 * Automated API documentation, saving 60% of documentation writing time
 * Implemented Google Tag Manager (GTM) and Google Analytics (GA4) to facilitate marketing analysis
 
+
 **Project/Backend Engineer**, **PPX (新場景股份有限公司), Pressplay Group**   
 
 2020 - 2022
