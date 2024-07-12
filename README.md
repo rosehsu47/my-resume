@@ -35,6 +35,7 @@ I enjoy learning various things such as foreign languages and new technologies. 
 * Increased core function test coverage from 0% to 70%
 * Automated API documentation, saving 60% of documentation writing time
 * Implemented Google Tag Manager (GTM) and Google Analytics (GA4) to facilitate marketing analysis
+* Integrated SonarQube into CI/CD pipelines
 
 
 **Project/Backend Engineer**, **PPX (新場景股份有限公司), Pressplay Group**   
