@@ -9,7 +9,7 @@ I enjoy learning various things such as foreign languages and new technologies. 
 
 **Version Control**: Git
 
-**DevOps**: GCP, Kubenetes, Kustomize, Github Actions (CI/CD), Azure
+**DevOps**: GCP, Kubernetes, Docker, Kustomize, Github Actions (CI/CD), Azure
 
 **Tools**: Notion, Jira, Asana, Trello, Lens, Postman, Vault
 
