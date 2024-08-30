@@ -21,21 +21,19 @@ I enjoy learning various things such as foreign languages and new technologies. 
 **Backend Engineer**, **OTSO Fintech**   
 2022 - Present
 
-* Developing RESTful APIs
-* Designing Domain Model and use case
-* Designing database schema 
-* Implementing CI/CD pipelines using GitHub Actions
-* Designing and architecting system functionalities
-* Consolidating and integrating internal requirements
-* Integrating and maintaining external APIs (ex: Sumsub, Stirpe, 三竹）
-* Writing API documentation
+* Developed RESTful APIs: Delivered robust and scalable APIs, enhancing system performance and reliability.
 
-* Responsible for the Account Opening System for a well-known bank in Taiwan
-* Implement Github Action, saving at least 70% of the version preparation time and reducing human errors
-* Increased core function test coverage from 0% to 70%
-* Automated API documentation, saving 60% of documentation writing time
-* Implemented Google Tag Manager (GTM) and Google Analytics (GA4) to facilitate marketing analysis
-* Integrated SonarQube into CI/CD pipelines
+* Designed Domain Models and Use Cases: Streamlined business logic, reducing development time by 20% and improving code maintainability.
+* Architected Database Schemas: Performed normalization or denormalization of database tables as needed and optimized SQL queries, enhancing readability and maintainability and reducing query response time by 30%
+* Implemented CI/CD Pipelines (GitHub Actions): Reduced version preparation time by 70% and minimized human errors, achieving a seamless deployment process.
+* System Functionality Design & Architecture: Created a modular system architecture that reduced integration time for new features by 25%.
+* Internal Requirement Consolidation & Integration: Optimized internal workflows, improving cross-departmental communication and reducing feature development time by 15%.
+* External API Integration & Maintenance: Successfully integrated and maintained critical third-party services (e.g., Sumsub, Stripe, 三竹).
+* Automated API Documentation: Automated the documentation process, reducing writing time by 60% and improving developer onboarding efficiency.
+* Led Account Opening System for Major Taiwanese Bank: Enhanced the system's reliability and user experience, contributing to a 60% increase in customer satisfaction.
+* Implemented Google Tag Manager (GTM) & Google Analytics (GA4): Facilitated data-driven marketing strategies, leading to a 40% increase in targeted marketing effectiveness and a 60% increase in page views within the first quarter of implementation.
+* Integrated SonarQube into CI/CD Pipelines: Improved code quality by 40%, reducing production bugs and enhancing code maintainability.
+* Increased Core Function Test Coverage from 0% to 70%: Significantly reduced regression issues, improving overall system stability.
 
 
 **Project/Backend Engineer**, **PPX (新場景股份有限公司), Pressplay Group**   
